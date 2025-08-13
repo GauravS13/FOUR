@@ -1,0 +1,18 @@
+User-agent: *
+Allow: /
+
+# Block admin and API routes
+Disallow: /api/
+Disallow: /admin/
+
+# Allow important pages
+Allow: /
+Allow: /services
+Allow: /about
+Allow: /case-studies
+Allow: /blog
+Allow: /careers
+Allow: /contact
+
+# Sitemap location
+Sitemap: https://techflowsolutions.com/sitemap.xml

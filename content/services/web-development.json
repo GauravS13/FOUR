@@ -1,0 +1,94 @@
+{
+  "id": "web-development",
+  "title": "Web Development",
+  "subtitle": "Custom Web Applications Built for Scale",
+  "description": "We create high-performance, scalable web applications using cutting-edge technologies like React, Next.js, and TypeScript. Our solutions are designed to grow with your business.",
+  "hero": {
+    "title": "Transform Your Ideas Into Powerful Web Applications",
+    "description": "From concept to deployment, we build custom web solutions that drive business growth and deliver exceptional user experiences.",
+    "image": "/placeholder.svg?height=400&width=600"
+  },
+  "problem": {
+    "title": "The Challenge",
+    "description": "Many businesses struggle with outdated websites that don't convert visitors, lack mobile optimization, or can't handle growing traffic demands.",
+    "points": [
+      "Poor user experience leading to high bounce rates",
+      "Slow loading times affecting SEO rankings",
+      "Lack of mobile responsiveness",
+      "Difficulty scaling with business growth",
+      "Security vulnerabilities in legacy systems"
+    ]
+  },
+  "solution": {
+    "title": "Our Approach",
+    "description": "We build modern, fast, and secure web applications using industry best practices and cutting-edge technologies.",
+    "points": [
+      "Performance-first development with Core Web Vitals optimization",
+      "Mobile-first responsive design approach",
+      "Scalable architecture using modern frameworks",
+      "Security-by-design implementation",
+      "SEO optimization and accessibility compliance"
+    ]
+  },
+  "benefits": [
+    {
+      "title": "Faster Load Times",
+      "description": "Optimized performance with 90+ Lighthouse scores",
+      "metric": "3x faster"
+    },
+    {
+      "title": "Better Conversions",
+      "description": "User-focused design that drives action",
+      "metric": "+45% conversion"
+    },
+    {
+      "title": "Mobile Ready",
+      "description": "Responsive design for all devices",
+      "metric": "100% mobile optimized"
+    },
+    {
+      "title": "SEO Optimized",
+      "description": "Built for search engine visibility",
+      "metric": "+200% organic traffic"
+    }
+  ],
+  "technologies": [
+    "React",
+    "Next.js",
+    "TypeScript",
+    "Tailwind CSS",
+    "Node.js",
+    "MongoDB",
+    "PostgreSQL",
+    "Vercel",
+    "AWS"
+  ],
+  "process": [
+    {
+      "step": 1,
+      "title": "Discovery & Planning",
+      "description": "We analyze your requirements and create a detailed project roadmap."
+    },
+    {
+      "step": 2,
+      "title": "Design & Prototyping",
+      "description": "Create wireframes and interactive prototypes for validation."
+    },
+    {
+      "step": 3,
+      "title": "Development",
+      "description": "Build your application using modern technologies and best practices."
+    },
+    {
+      "step": 4,
+      "title": "Testing & Launch",
+      "description": "Comprehensive testing followed by deployment and monitoring."
+    }
+  ],
+  "cta": {
+    "title": "Ready to Build Your Web Application?",
+    "description": "Let's discuss your project and create a solution that drives results.",
+    "primaryButton": "Start Your Project",
+    "secondaryButton": "View Case Studies"
+  }
+}
